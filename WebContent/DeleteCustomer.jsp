@@ -10,7 +10,7 @@ if(i>0){
 	%>
 	<script>
 	window.alert("Account Deleted");
-	location="ShowCutomer.jsp";
+	location="ShowCustomer.jsp";
 	</script>
 	<%
 }else{
